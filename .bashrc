@@ -7,6 +7,7 @@
 
 source /usr/share/git/completion/git-prompt.sh
 
+alias vi='vim'
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]$(__git_ps1)\$ '
 
